@@ -44,5 +44,8 @@ exports.run = (client, message, args) => {
 
 }
 ;
-    
+   
+const [bitly] = err
+
+restart
 
